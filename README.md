@@ -1,2 +1,3 @@
-# hybrid_similarity_api
+# Hybrid Similarity API
 Implementation of Hybrid Similarity Algorithm
+
